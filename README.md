@@ -16,12 +16,7 @@ Hi 👋, I’m Aryan Singh — a Frontend Developer who enjoys creating clean, m
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aryansinghatwork-droid&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aryansinghatwork-droid&theme=radical" alt="GitHub Trophies" />
-  </a>
-</p>
-
+![](https://github-profile-trophy.vercel.app/?username=aryansinghatwork-droid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
