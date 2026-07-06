@@ -1,3 +1,6 @@
+<img width="2048" height="1152" alt="download (2)" src="https://github.com/user-attachments/assets/08fdfe85-0e50-4313-a561-7c4552310493" />
+
+
 # 💫 About Me:
 Hi 👋, I’m Aryan Singh — a Frontend Developer who enjoys creating clean, modern, and meaningful digital experiences.<br><br>🔭 I’m currently working on<br>Building modern, responsive, and user-focused web applications<br><br>👯 I’m looking to collaborate on<br>Creative frontend projects, UI experiments, and open-source ideas<br><br>🤝 I’m looking for help with<br>Writing cleaner code, improving project architecture, and building scalable web apps<br><br>🌱 I’m currently learning<br>React.js, advanced JavaScript, UI/UX principles, and modern web development practices<br><br>💬 Ask me about<br>Frontend development, responsive design, GitHub, web projects, and clean UI design<br><br>⚡ Fun fact<br>I don’t just build websites — I turn ideas into digital experiences
 
